@@ -29,23 +29,25 @@ Fue utilizado en vivo durante la exposición: los asistentes jugaban directament
 
 ---
 
-### Menú principal
-![Menú](https://i.postimg.cc/rKSXG3Nr/Menu.png)
+## 📸 Capturas del Juego
 
-### Reglas
-![Reglas](https://i.postimg.cc/YvMcdRdy/Reglas.png)
+### 🏠 Menú Principal
+![Menú](https://i.postimg.cc/yNP2VFQs/Menu.png)
 
-### Juego en progreso
-![Juego1](https://i.postimg.cc/MvkJQqVw/Juego1.png)
+### 📖 Reglas
+![Reglas](https://i.postimg.cc/Kz8w4RwL/Reglas.png)
 
-### Definiciones
-![Definiciones](https://i.postimg.cc/yDPMtR56/Definiciones.png)
+### 🎮 Juego en Progreso
+![Juego1](https://i.postimg.cc/TY58r5wJ/Juego1.png)
 
-### Acierto
-![Acierto](https://i.postimg.cc/TLFMQXsr/Acierto.png)
+### 📚 Definiciones
+![Definiciones](https://i.postimg.cc/CKYWTv4c/Definiciones.png)
 
-### Desacierto
-![Desacierto](https://i.postimg.cc/wRNKGGKn/Desacierto.png)
+### ✅ Acierto
+![Acierto](https://i.postimg.cc/XqhTR425/Acierto.png)
 
-### Ganar
-![Ganar](https://i.postimg.cc/G9T1tHBz/Ganar.png)
+### ❌ Desacierto
+![Desacierto](https://i.postimg.cc/CL33JMnT/Desacierto.png)
+
+### 🏆 Ganar
+![Ganar](https://i.postimg.cc/13DLdxDg/Ganar.png)
