@@ -28,3 +28,24 @@ Fue utilizado en vivo durante la exposición: los asistentes jugaban directament
 - Estilo visual: **colores y ASCII art**  
 
 ---
+
+### Menú principal
+![Menú](https://i.postimg.cc/rKSXG3Nr/Menu.png)
+
+### Reglas
+![Reglas](https://i.postimg.cc/YvMcdRdy/Reglas.png)
+
+### Juego en progreso
+![Juego1](https://i.postimg.cc/MvkJQqVw/Juego1.png)
+
+### Definiciones
+![Definiciones](https://i.postimg.cc/yDPMtR56/Definiciones.png)
+
+### Acierto
+![Acierto](https://i.postimg.cc/TLFMQXsr/Acierto.png)
+
+### Desacierto
+![Desacierto](https://i.postimg.cc/wRNKGGKn/Desacierto.png)
+
+### Ganar
+![Ganar](https://i.postimg.cc/G9T1tHBz/Ganar.png)
